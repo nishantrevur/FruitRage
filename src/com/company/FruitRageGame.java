@@ -3,7 +3,7 @@ package com.company;
 import java.io.*;
 import java.util.*;
 
-public class FruitRageGame3 {
+public class FruitRageGame {
     private int n,p;
     private float time;
     private FileOutputStream out;
